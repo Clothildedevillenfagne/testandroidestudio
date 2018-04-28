@@ -18,7 +18,7 @@ import be.uclouvain.lsinf1225.musicplayer.R;
 import be.uclouvain.lsinf1225.musicplayer.model.User;
 
 /**
- * Gère l'écran de connexion des utilisateurs à l'application.
+ * Gère l'écran de connexion des utilisateurs à l'application, blabalbalbalablabalbalijdzleicjz.
  *
  * @author Damien Mercier
  * @version 1
